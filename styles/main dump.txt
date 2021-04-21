@@ -1,0 +1,39 @@
+
+/*
+div ul{
+	list-style-type: none; /* Removes bullets */
+	padding: 0; /* Remove padding */
+	margin: 0;
+	overflow: hidden;
+	position:relative;
+}*/
+/*div li{
+	float:left;
+	display: inline-block;
+	position: relative;
+}*/
+div a{
+	display:block;
+	width: 160px;
+	text-align:center;
+	background-color:#800000;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+ }
+
+
+div li a:hover {
+	color: yellow;
+}*/
+
+/*ul li sub_menu a:hover{
+	display: block;
+	position:absolute;
+	left:0;
+	float:left;
+	overflow: hidden;
+
+}*/
